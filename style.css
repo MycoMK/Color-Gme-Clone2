@@ -1,0 +1,17 @@
+body{
+    background-color: #232323;
+}
+
+.squares{
+    width: 30%;
+    background-color: blueviolet;
+    padding: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#container{
+    margin: 0,auto;
+    max-width: 600px;
+
+}
